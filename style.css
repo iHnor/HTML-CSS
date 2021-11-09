@@ -112,5 +112,11 @@ td {
   padding: 40px;
   padding-top: 5%;
   padding-left: 12%;
+  padding-bottom: 8%;
   clear: left;
+}
+
+.additional-Information .registrateDate{
+  position: absolute;
+  right: 35%;
 }
